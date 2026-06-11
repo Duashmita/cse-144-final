@@ -1,5 +1,7 @@
 # CSE 144 Final Project
 
+[Report & Weights (Google Drive)](https://drive.google.com/drive/folders/1BjIqZdYgbDBN4LeKBsoVe0rSGbXeAZcB?usp=sharing)
+
 ## Kaggle Leaderboard
 
 ![Kaggle Leaderboard](leaderboard.png)
